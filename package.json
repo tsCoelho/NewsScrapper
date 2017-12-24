@@ -1,0 +1,25 @@
+{
+  "name": "newsscrapper",
+  "version": "1.0.0",
+  "description": "Its a news scrapper for bitcoin news",
+  "main": "js/main.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "lodash": "^4.17.4",
+    "request": "^2.83.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tsCoelho/NewsScrapper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tsCoelho/NewsScrapper/issues"
+  },
+  "homepage": "https://github.com/tsCoelho/NewsScrapper#readme"
+}

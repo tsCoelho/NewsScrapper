@@ -3,7 +3,7 @@ var cheerio = require('cheerio');
 var _ 		= require('lodash');
 var fs 		= require('fs');
 
-const NUMBER_OF_NEWS_PAGES = 400;
+const NUMBER_OF_NEWS_PAGES = 2;
 const PAGES_CHUNK_SIZE = 10;
 const NEWS_SITES = {
     
